@@ -17,9 +17,7 @@ The best way to make sure you have the latest version of this library is by clon
 
 .. code-block:: shell
 
-    git clone htpps://github.com/2bndy5/python-roboclaw.git
-    cd python-roboclaw
-    python setup.py install
+   python3 -m pip install roboclaw@git+ssh://git@github.com/dynovas-inc/roboclaw.git
 
 Usage
 ------
